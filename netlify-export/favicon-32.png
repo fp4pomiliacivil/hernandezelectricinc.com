@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- Primary SEO ──────────────────────────────────────────────── -->
+    <title>Hernandez Electric Inc. — Licensed Electrician in Ukiah, CA | Lake, Sonoma & Mendocino</title>
+    <meta name="description" content="Licensed electrician serving Lake, Sonoma, and Mendocino counties since 2005. Residential, commercial, panel upgrades, repairs. Bonded & Insured. License #863889. Call (707) 354-8212 or email trino@hernandezelectric.net." />
+    <meta name="keywords" content="electrician Ukiah, electrician Mendocino, electrician Lake County, electrician Sonoma, panel upgrade, residential electrician, commercial electrician, Hernandez Electric" />
+    <meta name="author" content="Hernandez Electric Inc." />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://hernandezelectric.netlify.app/" />
+
+    <!-- Favicon / Icons (placeholder; replace public/favicon.* once branded) ─ -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="theme-color" content="#194f60" />
+
+    <!-- Open Graph / Facebook ────────────────────────────────────── -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://hernandezelectric.netlify.app/" />
+    <meta property="og:title" content="Hernandez Electric Inc. — Licensed Electrician in Ukiah, CA" />
+    <meta property="og:description" content="Honest, licensed electrical service for Lake, Sonoma, and Mendocino counties since 2005. License #863889 • Bonded & Insured • (707) 354-8212" />
+    <meta property="og:image" content="https://hernandezelectric.netlify.app/logo-hernandez.png?v=3" />
+    <meta property="og:site_name" content="Hernandez Electric Inc." />
+    <meta property="og:locale" content="en_US" />
+
+    <!-- Twitter ──────────────────────────────────────────────────── -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Hernandez Electric Inc. — Licensed Electrician in Ukiah, CA" />
+    <meta name="twitter:description" content="Honest, licensed electrical service for Lake, Sonoma, and Mendocino counties since 2005. License #863889 • Bonded & Insured." />
+    <meta name="twitter:image" content="https://hernandezelectric.netlify.app/logo-hernandez.png?v=3" />
+
+    <!-- Geo / Local SEO ──────────────────────────────────────────── -->
+    <meta name="geo.region" content="US-CA" />
+    <meta name="geo.placename" content="Ukiah" />
+    <meta name="geo.position" content="39.150393;-123.207782" />
+    <meta name="ICBM" content="39.150393, -123.207782" />
+
+    <!-- Fonts ────────────────────────────────────────────────────── -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+
+    <!-- Schema.org LocalBusiness (Electrician) JSON-LD ───────────── -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Electrician",
+      "@id": "https://hernandezelectric.netlify.app/#business",
+      "name": "Hernandez Electric Inc.",
+      "alternateName": "Hernandez Electric",
+      "description": "Licensed electrician serving Lake, Sonoma, and Mendocino counties since 2005. Residential, commercial, industrial, and agricultural electrical services.",
+      "url": "https://hernandezelectric.netlify.app/",
+      "image": "https://hernandezelectric.netlify.app/logo-hernandez.png?v=3",
+      "logo": "https://hernandezelectric.netlify.app/logo-hernandez.png?v=3",
+      "telephone": "+1-707-354-8212",
+      "email": "trino@hernandezelectric.net",
+      "priceRange": "$$",
+      "foundingDate": "2005",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "3721 Christy Court",
+        "addressLocality": "Ukiah",
+        "addressRegion": "CA",
+        "postalCode": "95482",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 39.150393,
+        "longitude": -123.207782
+      },
+      "openingHoursSpecification": [{
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "07:00",
+        "closes": "16:00"
+      }],
+      "areaServed": [
+        { "@type": "AdministrativeArea", "name": "Mendocino County, CA" },
+        { "@type": "AdministrativeArea", "name": "Lake County, CA" },
+        { "@type": "AdministrativeArea", "name": "Sonoma County, CA" }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Electrical Services",
+        "itemListElement": [
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Lighting Installation" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Wiring & Rewiring" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Electrical Repair & Troubleshooting" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Panel Upgrades & Changes" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Residential & Commercial Electrical" } }
+        ]
+      },
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "CA C-10 License",
+        "value": "863889"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5.0",
+        "reviewCount": "2"
+      },
+      "sameAs": [
+        "https://www.bbb.org/us/ca/ukiah/profile/electrician/hernandez-electric-inc-1116-966095"
+      ]
+    }
+    </script>
+    <script type="module" crossorigin src="/assets/index-BkfiPBz5.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-DTIECPip.css">
+  </head>
+  <body class="bg-white text-brand-900 antialiased">
+    <noscript>
+      <div style="padding:1rem;background:#fef3c7;color:#7c2d12;text-align:center;font-family:system-ui,sans-serif">
+        This site works best with JavaScript enabled. To reach Hernandez Electric directly, please call
+        <a href="tel:+17073548212">(707) 354-8212</a> or email
+        <a href="mailto:trino@hernandezelectric.net">trino@hernandezelectric.net</a>.
+      </div>
+    </noscript>
+    <div id="root"></div>
+  </body>
+</html>
