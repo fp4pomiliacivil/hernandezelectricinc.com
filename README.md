@@ -22,7 +22,16 @@ Open [http://localhost:3457](http://localhost:3457).
 
 ## Deploy
 
-Upload the contents of `netlify-export/` to Netlify for `hernandezelectricinc.com`.
+Push to `main` on GitHub. Netlify deploys automatically from `netlify-export/` (see `netlify.toml`).
+
+```bash
+git pull
+git add netlify-export/
+git commit -m "Describe your change"
+git push
+```
+
+Live site: [hernandezelectricinc.com](https://hernandezelectricinc.com/)
 
 ## Contact
 
